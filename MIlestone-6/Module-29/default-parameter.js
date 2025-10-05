@@ -1,7 +1,8 @@
+// ei khane ami jodi 2 ta parameter er mas set na o kori taholeoo amake result dibe.
+
 function sumOfNumbers(Num1 = 0, Num2 = 0) {
     const total = Num1 + Num2;
-    console.log(total);
-    
+    console.log(total);  
 }
 sumOfNumbers(20)
 

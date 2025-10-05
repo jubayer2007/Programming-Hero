@@ -11,7 +11,7 @@ const result = addition(17, 13);
 console.log(result);
 
 // arrow function
-
+/* function name + parameter + => + condition */
 const add2 = (Num1, Num2) => Num1 + Num2;
 const results = add2(20, 20);
 console.log(results);
